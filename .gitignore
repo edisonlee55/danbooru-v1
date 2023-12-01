@@ -1,0 +1,27 @@
+
+# /config/
+/config/database.yml
+/config/local_config.rb
+
+# /db/
+/db/schema.rb
+
+# /lib/danbooru_image_resizer/
+/lib/danbooru_image_resizer/mkmf.log
+/lib/danbooru_image_resizer/Makefile
+/lib/danbooru_image_resizer/danbooru_image_resizer.bundle
+/lib/danbooru_image_resizer/danbooru_image_resizer.so
+
+# /log/
+/log/development.log
+
+# /public/data/
+/public/data/*
+
+# /public/data/preview/
+/public/data/preview/*
+
+# /tmp/sessions/
+/tmp/sessions/*
+
+# /vendor/plugins/
